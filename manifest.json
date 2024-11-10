@@ -1,0 +1,23 @@
+{
+    "short_name": "Sky Creative",
+    "name": "Silky's Portofolio",
+    "description":"This application contains information, ranging from self-introduction, education, portfolio, to contact Silky.",
+    "icons": [
+      {
+        "src": "img/icon/portofolio-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon/portofolio-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#e02f6b",
+    "background_color": "#efa2b4",
+    "orientation":"portrait"
+  }
+  
