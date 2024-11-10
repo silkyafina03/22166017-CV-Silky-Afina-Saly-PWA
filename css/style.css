@@ -508,6 +508,7 @@ Global Settings
     text-transform: capitalize;
     margin: 0 10px 10px 0;
     border-radius: 20px;
+    color: var(--main-color);
    }
    .about-tabs{
     margin-top: 20px;
@@ -856,6 +857,41 @@ margin: 0 0 5px;
     }
 
 }
+@media (max-width: 400px) {
+    .section-tittle h2,
+    .header .nav-inner ul li a {
+        font-size: 30px; /* Reduce font for smaller screens */
+    }
+
+    .home-text h1 {
+        font-size: 26px;
+    }
+
+    .home-text h2 {
+        font-size: 16px;
+    }
+
+    .pp-header h3 {
+        font-size: 18px;
+    }
+
+    .home-text .btn {
+        width: 100%; /* Full-width buttons */
+        margin: 0 0 10px;
+    }
+
+    .portofolio-item {
+        width: 100%; /* Stack portfolio items */
+    }
+
+    .contact-form,
+    .contact-info {
+        padding: 10px; /* Padding for forms */
+    }
+}
+
+
+
 
 
 
