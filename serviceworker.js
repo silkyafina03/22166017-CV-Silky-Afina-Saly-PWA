@@ -19,7 +19,13 @@ const cacheAssets = [
   '/img/portofolio/3.png', 
   '/img/portofolio/4.png',  
   '/img/portofolio/5.png',  
-  '/img/portofolio/6.png'
+  '/img/portofolio/6.png',
+  '/img/portofolio/7.png',
+  '/img/portofolio/8.png',
+  '/img/portofolio/9.png'
+  
+  
+  
 ];
 
 // Install Event
