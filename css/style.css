@@ -42,7 +42,6 @@ Global Settings
     padding: 35px 15px; 
    }
    body.hide-scrolling{
-    overflow-y: hidden;
    }
    body::before{
     content: '';
